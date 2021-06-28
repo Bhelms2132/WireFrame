@@ -15,6 +15,10 @@ nav {
 }
 aside {
     background:#ebebeb;
+    float: right;
+}
+.clearfix {
+    overflow: auto;
 }
 section {
     background: #ebebeb;
@@ -23,4 +27,12 @@ section {
 article {
     color: #ebebeb;
     background: #777;
+}
+h1 {
+    background: #ebebeb;
+    color: #777;
+}
+p {
+    background: #ebebeb;
+    color: #777;
 }

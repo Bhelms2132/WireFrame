@@ -9,14 +9,17 @@ body {
 }
 header {
     background: #ebebeb;
+    margin: 20px;
 }
 nav {
     background: #ebebeb;
+    margin: 20px;
 }
 aside {
     background:#ebebeb;
     float: right;
     width: 495px;
+    
 }
 .clearfix {
     overflow: auto;
@@ -24,6 +27,7 @@ aside {
 section {
     background: #ebebeb;
     width: 495px;
+    margin: 20px;
 }
 article {
     color: #ebebeb;

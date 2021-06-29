@@ -1,3 +1,8 @@
 # WireFrame
 
-This activity is to give me a refresher on layouts in CSS using floats, clear fix and working with the box model. 
+## Goal
+My goal for this project was to refresh basic knowledge of HTML5 and CSS by building a bare bones web skelton. 
+
+## Topics Covered 
+
+

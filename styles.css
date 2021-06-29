@@ -20,9 +20,10 @@ nav {
 aside {
     background:#ebebeb;
     float: right;
-    margin: 0px;
+    margin: 0px 10px;
     padding: 30px 0px 10px 0px;
     width: 435px;
+    height: 248px;
 }
 .clearfix::after {
     content: "";

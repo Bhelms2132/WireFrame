@@ -21,11 +21,12 @@ aside {
     background:#ebebeb;
     float: right;
     width: 495px;
-    
 }
-.clearfix {
-    overflow: auto;
-}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 section {
     background: #ebebeb;
     width: 495px;
@@ -50,4 +51,6 @@ p {
 }
 footer {
     background: #ebebeb;
+    margin: 10px;
+    padding: 30px;
 }
